@@ -4,10 +4,10 @@
                       
 💫 **About Me:**
 
-* 🎓 **Computer Science & Engineering Student** at **Visvesvaraya Technological University, Mysuru** | **Graduating in 2028**
+* 🎓 **Computer Science & Engineering Student** at **Visvesvaraya Technological University** | **Graduating in 2028**
 * 🌱 Interested in **Java**, **Web Development**
-* 🤖 Learning **AI** & **Emerging Technologies**
-* 🚀 Currently Strengthening **Data Structures & Algorithms (DSA)** & **Problem-Solving Skills**
+* 🤖 Learning **AI** & **Building Software Solutions**
+* 🧠 Currently Strengthening **Data Structures & Algorithms (DSA)** & **Problem-Solving Skills**
 * 🏆 Participated in **Hackathons** & **Open-Source Programs**
 
 
