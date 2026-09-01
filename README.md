@@ -1,7 +1,7 @@
-                                **Hi 👋, I'm Deekshitha S K**
+                                 **Hi 👋, I'm Deekshitha S K**
 
-                          **A curious coder and passionate developer**
-   
+                           **A curious coder and passionate developer** 💻✨
+
 
 💫 **About Me:**
 
