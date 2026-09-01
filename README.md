@@ -1,5 +1,5 @@
  Hi 👋, I'm Deekshitha S K
-   A curious coder and passionate developer
+   
 
 💫 About Me:
   
