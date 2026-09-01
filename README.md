@@ -1,5 +1,5 @@
 <h2 align="center"><b></b>Hi 👋, I'm Deekshitha S K</b></h2>
-<p align="center"><strong>A curious coder and passionate developer</strong> 💻✨</p>
+<p align="center"><strong>💡 Turning ideas into code and solutions </strong> </p>
 
                       
 💫 **About Me:**
